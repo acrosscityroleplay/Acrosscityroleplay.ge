@@ -1,0 +1,30 @@
+
+h4{
+    color: red;
+}
+.text {
+    font-size: 16px; ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.creator{
+    width: 150px;
+}
+.owner{
+    width: 150px;
+}
+#fb{
+    font-size: 30px ;
+    color: blue;
+    
+}
+#yt{
+    font-size: 33px;
+    color: red;
+}
+
+#iptext{
+    color: black;
+}
+#ip{
+    color: rgb(204, 0, 0);
+}
